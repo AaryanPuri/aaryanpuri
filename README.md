@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1715817600&v=beta&t=D5kQnHFk-SS9m4K52hQaWnz6nmTHrGMOkcJpEPtNpz4)
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1715817600&v=beta&t=D5kQnHFk-SS9m4K52hQaWnz6nmTHrGMOkcJpEPtNpz4)
 <h1 align="center">Hi 👋, I'm Aaryan Puri</h1>
 <h3 align="center">Code Craftsmanship: Exploring the World of Programming from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpib3ZtOTJwMTBodXNzNXB5Ynpsc293bGxwZDFpcWRrN3RnbzJmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
