@@ -9,7 +9,7 @@
 
 - 📫 Reach me at- **aaryanpuri75@gmail.com**
 
-- ⚡ Fun fact **Programming is like cooking; sometimes you follow a recipe, and sometimes you just throw in whatever works**
+- ⚡ Fun fact: **Programming is like cooking; sometimes you follow a recipe, and sometimes you just throw in whatever works**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
