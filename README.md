@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aaryan Puri</h1>
 <h3 align="center">Code Craftsmanship: Exploring the World of Programming</h3>
+<img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpib3ZtOTJwMTBodXNzNXB5Ynpsc293bGxwZDFpcWRrN3RnbzJmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
+
 
 
 - 🔭 My Mantra **Stay Hungry, Stay Passionate!**
@@ -25,6 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanpuri&" alt="aaryanpuri" /></p>
 
+<img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3>Tech Stack:</h3>
 <ul>
   <li><strong>Languages:</strong> Python, C/C++, SQL (Postgres, MySQL), JavaScript, HTML/CSS</li>
@@ -35,3 +38,5 @@
   <li><strong>Data Science & Analysis:</strong> Data Analysis, Data Visualization, Sentiment Analysis, NLP, PowerBI</li>
   <li><strong>Core Competencies:</strong> Machine Learning, Deep Learning, AI Algorithms, Computer Vision, Problem Solving, 3D Modeling, Project Management, Agile Methodology</li>
 </ul>
+
+<img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
