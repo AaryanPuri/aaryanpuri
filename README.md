@@ -30,13 +30,13 @@
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3>Tech Stack:</h3>
 <ul>
-  <li><strong>Languages:</strong> Python, C/C++, SQL (Postgres, MySQL), JavaScript, HTML/CSS</li>
-  <li><strong>Frameworks:</strong> Flask, Django, React.js, Fast API, Laravel</li>
-  <li><strong>Developer Tools:</strong> Git, Docker, VS Code, Visual Studio, PyCharm, JIRA</li>
-  <li><strong>Libraries & Technologies:</strong> TensorFlow, OpenAI, Scikit-learn, Keras, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, NLTK, SpaCy, Scikit-image, SimpleCV, YOLO, ImageAI, API</li>
-  <li><strong>Platforms & Environments:</strong> Jupyter Notebook, Google Cloud Shell Editor, Kubernetes, Postman, MongoDB</li>
-  <li><strong>Data Science & Analysis:</strong> Data Analysis, Data Visualization, Sentiment Analysis, NLP, PowerBI</li>
-  <li><strong>Core Competencies:</strong> Machine Learning, Deep Learning, AI Algorithms, Computer Vision, Problem Solving, 3D Modeling, Project Management, Agile Methodology</li>
+  <li><strong>Languages:</strong> Python, C/C++, SQL</li>
+  <li><strong>Frameworks:</strong> Django, React.js, FastAPI, Laravel</li>
+  <li><strong>Databases:</strong> PostgreSQL, MySQL, MongoDB</li>
+  <li><strong>Developer Tools:</strong> Git, Docker, VS Code, JIRA, PyCharm, Postman, Power BI</li>
+  <li><strong>Libraries:</strong> TensorFlow, OpenAI, Scikit-learn, Keras, Pandas, NumPy, Matplotlib, OpenCV, YOLO</li>
+  <li><strong>Cloud:</strong> Google Cloud Platform (GCP), AWS</li>
+  <li><strong>Libraries:</strong>Core Skills:</strong> Machine Learning, Generative AI, NLP, Generative AI, Computer Vision, Agile Methodology</li>
 </ul>
 
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
