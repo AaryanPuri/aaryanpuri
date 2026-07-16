@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 My Mantra: **Stay Hungry, Stay Passionate!**  
+- 🔭 My Mantra: **Stay Hungry, Keep Building!**  
 - 📫 Reach me at: **aaryanpuri75@gmail.com**  
 - ⚡ Fun fact: **Programming is like cooking; sometimes you follow a recipe, and sometimes you just throw in whatever works**
 
