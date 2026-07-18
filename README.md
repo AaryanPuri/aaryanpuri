@@ -28,8 +28,8 @@
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://instagram.com/aaryan_puri75">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" />
+  <a href="http://x.com/aaryan_75/">
+    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" height="40" />
   </a>
 </p>
 
